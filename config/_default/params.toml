@@ -93,7 +93,7 @@ email = "p.stroet@businessdatascience.nl"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Gustav Mahlerplein 117", city = "Amsterdam", region = "Business Data Science", postcode = "1082 MS", country = "The Netherlands", country_code = "NL"}
+address = "Business Data Science, Tinbergen Institute, Gustav Mahlerplein 117, 1082 MS Amsterdam, The Netherlands"
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
