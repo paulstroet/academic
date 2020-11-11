@@ -11,7 +11,7 @@ role: Research Master student
 # Organizations/Affiliations
 organizations:
 - name: Business Data Science
-  url: ""
+  url: "https://businessdatascience.nl/graduate-program"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -66,6 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My name is Paul Stroet and I am a research master student at Business Data Science. My thesis focusses on enhancing the detection of outliers and I am supervised by prof. Philip Hans Franses and prof. Eran Raviv. My research interests evolve around deep learning, and lie specifically at the intersection of deep generative modeling, variational Bayesian inference and outlier detection. Currently I am working on two interesting projects, one concerning Monte Carlo simulation in the course Bayesian Econometrics, and the other one in construction an early warning system for 'breakthrough' innovations in the course Data Driven Innovation Strategies.
