@@ -1,37 +1,34 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Paul Stroet
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Master student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Business Data Science
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Variational (Bayesian) Inference
+- Outlier Detection process
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MPhil in Business Data Science
+    institution: Erasmus University Rotterdam
+    year: 2021
+  - course: BSc in Economics
+    institution: University of Amsterdam
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
