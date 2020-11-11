@@ -14,7 +14,7 @@ subtitle = ""
 weight = 60
 
 +++
-Currently, I am the Teaching assistant for the Deep Learning course of the Research Master's program in Business Data Science at the Tinbergen Institute.
+Currently, I am the Teaching assistant for Deep Learning, a graduate course of the Research Master's program in Business Data Science at the Tinbergen Institute.
 
 Previously, I was a teaching Assistent for the following courses:
 
