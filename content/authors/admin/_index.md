@@ -20,6 +20,7 @@ interests:
 - Deep Learning
 - Variational (Bayesian) Inference
 - Outlier Detection process
+- Deep Generative Modeling
 
 education:
   courses:
