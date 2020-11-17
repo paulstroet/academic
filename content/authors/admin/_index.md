@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-My name is Paul Stroet and I am a research master student at [Business Data Science](https://businessdatascience.nl/graduate-program). My research interests evolve around deep learning, and lie specifically at the intersection of deep generative modeling, variational Bayesian inference and outlier detection. My thesis focuses on enhancing the detection of outliers and I am supervised by [prof. Philip Hans Franses](https://www.eur.nl/en/people/philip-hans-franses) and [prof. Eran Raviv](https://eranraviv.com/about/). Currently I am working on two interesting projects, one concerning Monte Carlo simulation in the course Bayesian Econometrics, and the other one in constructing an early warning system for 'breakthrough' innovations in the course Data Driven Innovation Strategies.
+My name is Paul Stroet and I am a research master student at [Business Data Science](https://businessdatascience.nl/graduate-program). My research interests evolve around deep learning, and lie specifically at the intersection of deep generative modeling, variational Bayesian inference and outlier detection. My thesis focuses on enhancing the detection of outliers and I am supervised by [prof. Philip Hans Franses](https://www.eur.nl/en/people/philip-hans-franses) and [prof. Eran Raviv](https://eranraviv.com/about/). 
 
-{{% staticref "files/cv.pdf" %}}See my CV{{% /staticref %}}
+See my CV{{% staticref "files/cv.pdf" %}}here{{% /staticref %}}.
