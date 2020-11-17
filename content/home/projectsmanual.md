@@ -12,7 +12,7 @@ title = "Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 65
 
 +++
 Currently I am working on two interesting projects, one concerning Monte Carlo simulation in the course [Bayesian Econometrics](https://businessdatascience.nl/courses/200/bayesian-econometrics), and the other one in constructing an early warning system for ‘breakthrough’ innovations in the course [Data Driven Innovation Strategies](https://businessdatascience.nl/courses/171/data-driven-innovation-strategy).
