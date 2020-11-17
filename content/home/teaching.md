@@ -16,7 +16,7 @@ weight = 60
 +++
 Currently, I am the Teaching Assistant for Deep Learning, a graduate-level course of the Research Master's program in Business Data Science at the Tinbergen Institute.
 
-Previously, I was a Teaching Assistent for the following courses:
+Previously, I was a Teaching Assistant for the following courses:
 
 - Deep Learning (Summer School), graduate-level course at the Tinbergen Institute, Teaching Assistant to prof. Raviv
 - Principles of Economics & Business, undergraduate-level course at the University of Amsterdam, Teaching Assistant to prof. Schinkel
