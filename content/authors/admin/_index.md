@@ -17,11 +17,10 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Deep Learning
-- Variational (Bayesian) Inference
-- Structural Modeling
-- Outlier Detection Process
-- Deep Generative Modeling
+- Artificial intelligence
+- Information strategy
+- Digital innovation
+- Digital platforms
 
 education:
   courses:
@@ -71,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-My name is Paul Stroet and I am a research master student at [Business Data Science](https://businessdatascience.nl/graduate-program). My research interests evolve around marketing, and lie specifically at the intersection of methodological development and application of marketing models. I am very fascinated by uncovering the potential of deep learning in marketing models as well. My thesis focuses on enhancing the detection of outliers and I am supervised by [prof. Philip Hans Franses](https://www.eur.nl/en/people/philip-hans-franses) (Econometrics Institute) and [dr. Eran Raviv](https://eranraviv.com/about/) (Business Data Science). 
+My name is Paul Stroet and I am a research master student at [Business Data Science](https://businessdatascience.nl/graduate-program). My research interests evolve around information systems, and lie specifically at the intersection of methodological development and application of models in information systems. I am very fascinated by uncovering the potential of deep learning in information systems as well. My thesis focuses on enhancing the detection of outliers and I am supervised by [prof. Philip Hans Franses](https://www.eur.nl/en/people/philip-hans-franses) (Econometrics Institute) and [dr. Eran Raviv](https://eranraviv.com/about/) (Business Data Science). 
 
 Click {{% staticref "files/cv.pdf" %}}here{{% /staticref %}} for a PDF of my CV.
