@@ -11,7 +11,7 @@ title = "Thesis"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 64
+weight = 60
 
 +++
-In my thesis for Business Data Science I deploy advanced natural language processing (NLP) techniques to extract features from text data and consequently use these features in predictive modeling. My supervisor is prof. [Marc van de Wardt](http://www.marcvandewardt.com/) (Business Data Science). On this [page](https://paulstroet.github.io/bds_thesis/) I briefly log my trajectory. In my thesis for Data Science & Marketing Analytics I focus on enhancing the detection of outliers and I am supervised by [prof. Philip Hans Franses](https://www.eur.nl/en/people/philip-hans-franses) (Econometrics Institute) and [prof. Eran Raviv](https://eranraviv.com/about/) (Business Data Science). 
+In my thesis for Business Data Science I deploy advanced natural language processing (NLP) techniques to extract features from text data and consequently use these features in predictive modeling. My supervisor is prof. [Marc van de Wardt](http://www.marcvandewardt.com/) (Business Data Science). On this [page](https://paulstroet.github.io/bds_thesis/) I briefly log my trajectory. In my thesis for Data Science & Marketing Analytics I focus on enhancing the detection of outliers and I am supervised by prof. [Philip Hans Franses](https://www.eur.nl/en/people/philip-hans-franses) (Econometrics Institute) and prof. [Eran Raviv](https://eranraviv.com/about/) (Business Data Science). 
