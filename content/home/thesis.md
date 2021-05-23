@@ -1,4 +1,3 @@
-
 +++
 # Custom widget.
 # An example of using the custom widget to create your own homepage section.
