@@ -11,7 +11,7 @@ title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 61
 
 +++
 Currently, I am the Teaching Assistant for [Deep Learning](https://businessdatascience.nl/courses/177/deep-learning), a graduate-level course of the Research Master's program in Business Data Science at the Tinbergen Institute.
