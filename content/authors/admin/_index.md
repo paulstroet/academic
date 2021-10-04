@@ -6,7 +6,7 @@ title: Paul Stroet
 superuser: true
 
 # Role/position
-role: Research Master student
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
